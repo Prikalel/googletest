@@ -82,3 +82,8 @@ googlemock/gtest
 /CMakeCache.txt
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj
+googletest/src/.deps/.dirstamp
+googletest/src/.deps/libgtest_la-gtest-all.Plo
+googletest/src/.libs/libgtest_la-gtest-all.o
+googletest/src/.dirstamp
+googletest/src/libgtest_la-gtest-all.lo
